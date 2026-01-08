@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1746044730 source:c:\users\octav\onedrive\documentos\codeblocks\juego de dados\main.cpp
+	<iostream>
+	<ctime>
+	"Menu.h"
+
+1720135330 c:\users\octav\onedrive\documentos\codeblocks\juego de dados\menu.h
+
+1720136457 c:\users\octav\onedrive\documentos\codeblocks\juego de dados\menu.hpp
+
+1766341194 source:c:\users\octav\onedrive\documentos\codeblocks\juego de dados\funciones.cpp
+	<iostream>
+	"Funciones.h"
+
+1720135330 c:\users\octav\onedrive\documentos\codeblocks\juego de dados\funciones.h
+
+1746045316 source:c:\users\octav\onedrive\documentos\codeblocks\juego de dados\juego.cpp
+	<iostream>
+	"Juego.h"
+	"Funciones.h"
+
+1720135330 c:\users\octav\onedrive\documentos\codeblocks\juego de dados\juego.h
+
+1766342820 source:c:\users\octav\onedrive\documentos\codeblocks\juego de dados\juego2.cpp
+	<iostream>
+	"Juego2.h"
+	"Funciones.h"
+
+1720135330 c:\users\octav\onedrive\documentos\codeblocks\juego de dados\juego2.h
+
+1766342843 source:c:\users\octav\onedrive\documentos\codeblocks\juego de dados\menu.cpp
+	<iostream>
+	"Menu.h"
+	"Juego.h"
+	"Funciones.h"
+	"Juego2.h"
+
